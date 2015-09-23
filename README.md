@@ -2,7 +2,7 @@
 A script for Photoshop to resize automatically Android image resources
 
 
-<img src="https://github.com/MhzDev/Android-Drawable-Resizer-Photoshop/tree/master/Github%20Art/IconDensity.png" width="300">
+<img src="https://github.com/MhzDev/Android-Drawable-Resizer-Photoshop/blob/master/Github%20Art/IconDensity.png" width="300">
 ## Features
 - Supported density: XXHDPI, XHDPI, HDPI, MDPI.
 - Smartphone and Tablet folders support.
