@@ -15,4 +15,4 @@ A script for Photoshop to resize automatically Android image resources
 ## How to use
 The script is composed by 2 actions, for smartphone and tablet, each action put the output in the relative folders
 - In Ps open the menu "File -> Automate -> Batch..."
-- In play part select the "Android Drawable Resizer" And the "Smartphone" or "Tablet" action
+- In play part select the "Android Drawable Resizer" and the "Smartphone" or "Tablet" action
